@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Ich bin richtig geil>
+  <p>Ich bin Joel! Im Internet auch Jxelsw bekannt :=)</p>
 </div> 
 
 
