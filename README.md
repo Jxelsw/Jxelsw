@@ -1,6 +1,7 @@
 <div align="center">
   <p>Ich bin Joel! Im Internet auch Jxelsw bekannt :=)</p>
   <p>Klickt mal wenn ihr wollt auf meinem Discord Status hihi ^^</p>
+  <p>⬇️</p>
 </div> 
 
 
