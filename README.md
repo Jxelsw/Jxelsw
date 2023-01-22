@@ -1,6 +1,8 @@
-<p align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/830475247819292682)](https://discord.com/users/830475247819292682)
-</p>
+<div align="center">
+  <a href="https://discord.com/users/830475247819292682">
+    <img src="https://lanyard.cnrad.dev/api/830475247819292682?theme=dark&bg=23272A&animated=true&hideDiscrim=false&borderRadius=30px"/>
+  </a>
+</div>
 
 #
 
