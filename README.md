@@ -2,5 +2,7 @@
 
 #
 
-<img src="https://github-readme-stats.vercel.app/api?username=jxelsw&show_icons=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxelsw&theme=dracula" />
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=craftsarmy&show_icons=true&theme=dracula" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftsarmy&theme=dracula" />
+</p>
