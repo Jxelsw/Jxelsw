@@ -25,5 +25,9 @@
      <img src="https://github-readme-stats.vercel.app/api?username=jxelsw&show_icons=true&theme=dracula" />
 </p>
 
+<p aligin="center">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jxelsw&label=Profile%20views&color=0e75b6&style=flat" alt="jxelsw" /> </p>
+</p>
+
 #
 
